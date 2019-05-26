@@ -1,5 +1,5 @@
 SET @job_name = 'tequilala';
-SET @society_name = 'society_tquilala';
+SET @society_name = 'society_tequilala';
 SET @job_Name_Caps = 'Tequilala';
 
 
